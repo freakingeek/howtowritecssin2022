@@ -9,7 +9,6 @@ To write CSS correctly, you need to know it better first, let's get a little mor
 - No Test at All
 
 <br />
-<br />
 
 ## Now what, can we fix them?
 Yes, CSS may have problems, but all of these are easily solvable
@@ -35,7 +34,6 @@ Increasing or decreasing the project features creates a list of unused styles, b
 Well not exactly, you can unit test CSS using a tool called [**Barista**](https://developer.helpscout.com/seed/css-unit-testing/), but it's not as popular as other methods.
 
 <br />
-<br />
 
 ## Let's Push our skills to the next level!
 You can easily upgrade your CSS skills using the following tools/technologies
@@ -45,26 +43,3 @@ You can easily upgrade your CSS skills using the following tools/technologies
 -  JSS ( eg. Styled Components )
 -  CSS Modules/Scoped
 - CSS Frameworks
-
-
-
-
-
-
-
-<!-- 
-## Resources
-
-<br />
-
-### Not Scalable Syntax
-[BEM](#)  
-[OOCSS](#)  
-
-
-### Bad Browser Support
-[PostCSS](#)  
-[PurgeCSS](#)  
-
-### No Test at All
-[Barista](#)   -->
